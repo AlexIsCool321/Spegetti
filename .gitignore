@@ -1,0 +1,11 @@
+
+/.vs
+*.vcxproj
+*.filters
+*.user
+*.cmake
+/CMakeFiles
+/Debug
+/Spegetti.dir
+/x64
+*.sln
